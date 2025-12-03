@@ -52,9 +52,9 @@ li{
     font-size: 2rem;
     font-weight: bold;
     padding: 15px;
-    background-color: hsl(0, 0%, 97%);
+    background-color: hsl(18, 71%, 89%);
     margin-bottom: 10px;
-    border: 3px solid hsla(0, 0%, 85%, 0.75);
+    border: 3px solid hsla(17, 30%, 76%, 0.75);
     border-radius: 5px;
     display: flex;
     align-items: center;
